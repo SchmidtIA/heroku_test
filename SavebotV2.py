@@ -206,8 +206,7 @@ def keyboard_callback_handler(bot: Bot, update: Update, chat_data=None, **kwargs
     data = query.data
     now = datetime.datetime.now()
 
-if CB2_1_HOME == CB2_1_HOME:
-    webbrowser.open("https://go.leadgid.ru/aff_c?offer_id=2509&aff_id=60785")
+
 
     
 
